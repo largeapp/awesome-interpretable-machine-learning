@@ -417,3 +417,4 @@ Opinionated list of resources facilitating model interpretability
 ** Other Resources
    + *Awesome* list of resources
      + https://github.com/jphall663/awesome-machine-learning-interpretability
+     + https://github.com/pbiecek/xai_resources
